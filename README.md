@@ -1,6 +1,4 @@
-# Roblox
 uhhh
-
 
 Hello there. This is my first actual project that I'm going to put some time into. Hopefully it doesn't flop ~~like all my other projects...~~, But, I guess time will tell on this...
 
